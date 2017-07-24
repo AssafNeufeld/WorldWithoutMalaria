@@ -1,0 +1,50 @@
+﻿body { padding-top: 70px; }
+
+.parent {
+    display: flex;
+    height: 300px;
+}
+
+.child {
+  width: 24%;  
+  height: 100px;
+  margin: auto;  
+}
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.flex-item {
+  background: white;
+  padding: 5px;
+  width: 24%;
+  margin-top: 10px;
+  border-radius: 10px;
+  
+  color: black;
+  font-size: 1em;
+  text-align: left;
+}
+
+.alert-number {
+    font-weight: bold;
+    font-size: 2em;
+    color: red;
+}
+
+.alert-content {
+    font-weight: bold;
+
+}

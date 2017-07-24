@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+
+	<meta charset="utf-8" />
+</head>
+<body>
+
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">World Without Malaria</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#tab1danger" data-toggle="tab">Areas At-Risk</a></li>
+                <li><a href="#tab2danger" data-toggle="tab">Map</a></li>
+                <li><a href="#tab3danger" data-toggle="tab">Links</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+    <div class="">
+        <div class="panel-heading">
+            <div class="panel-body">
+                <div class="tab-content">
+                    <div class="tab-pane fade in active" id="tab1danger">
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Osire, Namibia</h3>
+                            </div>
+                            <div class="panel-body">
+                                <ul class="flex-container">
+                                    <li class="flex-item">
+                                        <div class="alert-number">52%</div>
+                                        <div class="alert-content">Probability of Malaria outbreak within 2 weeks</div>
+                                    </li>
+                                    <li class="flex-item">
+                                        <div class="alert-number">
+                                            <span class="glyphicon glyphicon-user" aria-hidden="true"></span> 35k
+                                        </div>
+                                        <div class="alert-content">People immediately at-risk</div>
+                                    </li>
+                                    <li class="flex-item">
+                                        <!-- Single button -->
+                                        <div class="btn-group">
+                                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                How to help? <span class="caret"></span>
+                                            </button>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="#">Donate</a></li>
+                                                <li><a href="#">Raise Awareness</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="tab2danger"></div>
+                    <div class="tab-pane fade" id="tab3danger"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
