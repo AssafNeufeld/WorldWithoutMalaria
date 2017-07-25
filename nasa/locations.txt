@@ -1,0 +1,1574 @@
+-36.0;-17.5;None
+-36.0;-16.875;None
+-36.0;-16.25;None
+-36.0;-15.625;None
+-36.0;-15.0;None
+-36.0;-14.375;None
+-36.0;-13.75;St Helena, Ascension and Tristan da Cunha
+-36.0;-13.125;St Helena, Ascension and Tristan da Cunha
+-36.0;-12.5;St Helena, Ascension and Tristan da Cunha
+-36.0;-11.875;St Helena, Ascension and Tristan da Cunha
+-36.0;-11.25;St Helena, Ascension and Tristan da Cunha
+-36.0;-10.625;St Helena, Ascension and Tristan da Cunha
+-36.0;-10.0;St Helena, Ascension and Tristan da Cunha
+-36.0;-9.375;St Helena, Ascension and Tristan da Cunha
+-36.0;-8.75;St Helena, Ascension and Tristan da Cunha
+-36.0;-8.125;None
+-36.0;-7.5;None
+-36.0;-6.875;None
+-36.0;-6.25;None
+-36.0;-5.625;None
+-36.0;-5.0;None
+-36.0;-4.375;None
+-36.0;-3.75;None
+-36.0;-3.125;None
+-36.0;-2.5;None
+-36.0;-1.875;None
+-36.0;-1.25;None
+-36.0;-0.625;None
+-36.0;-5.920304394294029e-13;None
+-36.0;0.625;None
+-36.0;1.25;None
+-36.0;1.875;None
+-36.0;2.5;None
+-36.0;3.125;None
+-36.0;3.75;None
+-36.0;4.375;None
+-36.0;5.0;None
+-36.0;5.625;None
+-36.0;6.25;None
+-36.0;6.875;None
+-36.0;7.5;None
+-36.0;8.125;None
+-36.0;8.75;None
+-36.0;9.375;None
+-36.0;10.0;None
+-36.0;10.625;None
+-36.0;11.25;None
+-36.0;11.875;None
+-36.0;12.5;None
+-36.0;13.125;None
+-36.0;13.75;None
+-36.0;14.375;None
+-36.0;15.0;None
+-36.0;15.625;None
+-36.0;16.25;None
+-36.0;16.875;None
+-36.0;17.5;None
+-36.0;18.125;None
+-36.0;18.75;None
+-36.0;19.375;None
+-36.0;20.0;None
+-36.0;20.625;None
+-36.0;21.25;None
+-36.0;21.875;None
+-36.0;22.5;None
+-36.0;23.125;None
+-36.0;23.75;None
+-36.0;24.375;None
+-36.0;25.0;None
+-36.0;25.625;None
+-36.0;26.25;None
+-36.0;26.875;None
+-36.0;27.5;None
+-36.0;28.125;None
+-36.0;28.75;None
+-36.0;29.375;None
+-36.0;30.0;None
+-36.0;30.625;None
+-36.0;31.25;None
+-36.0;31.875;None
+-36.0;32.5;None
+-36.0;33.125;None
+-36.0;33.75;None
+-36.0;34.375;None
+-36.0;35.0;None
+-36.0;35.625;None
+-36.0;36.25;None
+-36.0;36.875;None
+-36.0;37.5;None
+-36.0;38.125;None
+-36.0;38.75;None
+-36.0;39.375;None
+-36.0;40.0;None
+-36.0;40.625;None
+-36.0;41.25;None
+-36.0;41.875;None
+-36.0;42.5;None
+-36.0;43.125;None
+-36.0;43.75;None
+-36.0;44.375;None
+-36.0;45.0;None
+-36.0;45.625;None
+-36.0;46.25;None
+-36.0;46.875;None
+-36.0;47.5;None
+-36.0;48.125;None
+-36.0;48.75;None
+-36.0;49.375;None
+-36.0;50.0;None
+-36.0;50.625;None
+-36.0;51.25;None
+-36.0;51.875;None
+-35.5;-17.5;None
+-35.5;-16.875;None
+-35.5;-16.25;None
+-35.5;-15.625;None
+-35.5;-15.0;None
+-35.5;-14.375;None
+-35.5;-13.75;None
+-35.5;-13.125;St Helena, Ascension and Tristan da Cunha
+-35.5;-12.5;St Helena, Ascension and Tristan da Cunha
+-35.5;-11.875;St Helena, Ascension and Tristan da Cunha
+-35.5;-11.25;St Helena, Ascension and Tristan da Cunha
+-35.5;-10.625;St Helena, Ascension and Tristan da Cunha
+-35.5;-10.0;St Helena, Ascension and Tristan da Cunha
+-35.5;-9.375;St Helena, Ascension and Tristan da Cunha
+-35.5;-8.75;St Helena, Ascension and Tristan da Cunha
+-35.5;-8.125;None
+-35.5;-7.5;None
+-35.5;-6.875;None
+-35.5;-6.25;None
+-35.5;-5.625;None
+-35.5;-5.0;None
+-35.5;-4.375;None
+-35.5;-3.75;None
+-35.5;-3.125;None
+-35.5;-2.5;None
+-35.5;-1.875;None
+-35.5;-1.25;None
+-35.5;-0.625;None
+-35.5;-5.920304394294029e-13;None
+-35.5;0.625;None
+-35.5;1.25;None
+-35.5;1.875;None
+-35.5;2.5;None
+-35.5;3.125;None
+-35.5;3.75;None
+-35.5;4.375;None
+-35.5;5.0;None
+-35.5;5.625;None
+-35.5;6.25;None
+-35.5;6.875;None
+-35.5;7.5;None
+-35.5;8.125;None
+-35.5;8.75;None
+-35.5;9.375;None
+-35.5;10.0;None
+-35.5;10.625;None
+-35.5;11.25;None
+-35.5;11.875;None
+-35.5;12.5;None
+-35.5;13.125;None
+-35.5;13.75;None
+-35.5;14.375;None
+-35.5;15.0;None
+-35.5;15.625;None
+-35.5;16.25;None
+-35.5;16.875;None
+-35.5;17.5;None
+-35.5;18.125;None
+-35.5;18.75;None
+-35.5;19.375;None
+-35.5;20.0;None
+-35.5;20.625;None
+-35.5;21.25;None
+-35.5;21.875;None
+-35.5;22.5;None
+-35.5;23.125;None
+-35.5;23.75;None
+-35.5;24.375;None
+-35.5;25.0;None
+-35.5;25.625;None
+-35.5;26.25;None
+-35.5;26.875;None
+-35.5;27.5;None
+-35.5;28.125;None
+-35.5;28.75;None
+-35.5;29.375;None
+-35.5;30.0;None
+-35.5;30.625;None
+-35.5;31.25;None
+-35.5;31.875;None
+-35.5;32.5;None
+-35.5;33.125;None
+-35.5;33.75;None
+-35.5;34.375;None
+-35.5;35.0;None
+-35.5;35.625;None
+-35.5;36.25;None
+-35.5;36.875;None
+-35.5;37.5;None
+-35.5;38.125;None
+-35.5;38.75;None
+-35.5;39.375;None
+-35.5;40.0;None
+-35.5;40.625;None
+-35.5;41.25;None
+-35.5;41.875;None
+-35.5;42.5;None
+-35.5;43.125;None
+-35.5;43.75;None
+-35.5;44.375;None
+-35.5;45.0;None
+-35.5;45.625;None
+-35.5;46.25;None
+-35.5;46.875;None
+-35.5;47.5;None
+-35.5;48.125;None
+-35.5;48.75;None
+-35.5;49.375;None
+-35.5;50.0;None
+-35.5;50.625;None
+-35.5;51.25;None
+-35.5;51.875;None
+-35.0;-17.5;None
+-35.0;-16.875;None
+-35.0;-16.25;None
+-35.0;-15.625;None
+-35.0;-15.0;None
+-35.0;-14.375;None
+-35.0;-13.75;None
+-35.0;-13.125;St Helena, Ascension and Tristan da Cunha
+-35.0;-12.5;St Helena, Ascension and Tristan da Cunha
+-35.0;-11.875;St Helena, Ascension and Tristan da Cunha
+-35.0;-11.25;St Helena, Ascension and Tristan da Cunha
+-35.0;-10.625;St Helena, Ascension and Tristan da Cunha
+-35.0;-10.0;St Helena, Ascension and Tristan da Cunha
+-35.0;-9.375;St Helena, Ascension and Tristan da Cunha
+-35.0;-8.75;St Helena, Ascension and Tristan da Cunha
+-35.0;-8.125;None
+-35.0;-7.5;None
+-35.0;-6.875;None
+-35.0;-6.25;None
+-35.0;-5.625;None
+-35.0;-5.0;None
+-35.0;-4.375;None
+-35.0;-3.75;None
+-35.0;-3.125;None
+-35.0;-2.5;None
+-35.0;-1.875;None
+-35.0;-1.25;None
+-35.0;-0.625;None
+-35.0;-5.920304394294029e-13;None
+-35.0;0.625;None
+-35.0;1.25;None
+-35.0;1.875;None
+-35.0;2.5;None
+-35.0;3.125;None
+-35.0;3.75;None
+-35.0;4.375;None
+-35.0;5.0;None
+-35.0;5.625;None
+-35.0;6.25;None
+-35.0;6.875;None
+-35.0;7.5;None
+-35.0;8.125;None
+-35.0;8.75;None
+-35.0;9.375;None
+-35.0;10.0;None
+-35.0;10.625;None
+-35.0;11.25;None
+-35.0;11.875;None
+-35.0;12.5;None
+-35.0;13.125;None
+-35.0;13.75;None
+-35.0;14.375;None
+-35.0;15.0;None
+-35.0;15.625;None
+-35.0;16.25;None
+-35.0;16.875;None
+-35.0;17.5;None
+-35.0;18.125;None
+-35.0;18.75;None
+-35.0;19.375;None
+-35.0;20.0;26 Van Breda St, L'Agulhas, 7287, South Africa
+-35.0;20.625;None
+-35.0;21.25;None
+-35.0;21.875;None
+-35.0;22.5;None
+-35.0;23.125;None
+-35.0;23.75;None
+-35.0;24.375;None
+-35.0;25.0;None
+-35.0;25.625;None
+-35.0;26.25;None
+-35.0;26.875;None
+-35.0;27.5;None
+-35.0;28.125;None
+-35.0;28.75;None
+-35.0;29.375;None
+-35.0;30.0;None
+-35.0;30.625;None
+-35.0;31.25;None
+-35.0;31.875;None
+-35.0;32.5;None
+-35.0;33.125;None
+-35.0;33.75;None
+-35.0;34.375;None
+-35.0;35.0;None
+-35.0;35.625;None
+-35.0;36.25;None
+-35.0;36.875;None
+-35.0;37.5;None
+-35.0;38.125;None
+-35.0;38.75;None
+-35.0;39.375;None
+-35.0;40.0;None
+-35.0;40.625;None
+-35.0;41.25;None
+-35.0;41.875;None
+-35.0;42.5;None
+-35.0;43.125;None
+-35.0;43.75;None
+-35.0;44.375;None
+-35.0;45.0;None
+-35.0;45.625;None
+-35.0;46.25;None
+-35.0;46.875;None
+-35.0;47.5;None
+-35.0;48.125;None
+-35.0;48.75;None
+-35.0;49.375;None
+-35.0;50.0;None
+-35.0;50.625;None
+-35.0;51.25;None
+-35.0;51.875;None
+-34.5;-17.5;None
+-34.5;-16.875;None
+-34.5;-16.25;None
+-34.5;-15.625;None
+-34.5;-15.0;None
+-34.5;-14.375;None
+-34.5;-13.75;None
+-34.5;-13.125;St Helena, Ascension and Tristan da Cunha
+-34.5;-12.5;St Helena, Ascension and Tristan da Cunha
+-34.5;-11.875;St Helena, Ascension and Tristan da Cunha
+-34.5;-11.25;St Helena, Ascension and Tristan da Cunha
+-34.5;-10.625;St Helena, Ascension and Tristan da Cunha
+-34.5;-10.0;St Helena, Ascension and Tristan da Cunha
+-34.5;-9.375;St Helena, Ascension and Tristan da Cunha
+-34.5;-8.75;St Helena, Ascension and Tristan da Cunha
+-34.5;-8.125;None
+-34.5;-7.5;None
+-34.5;-6.875;None
+-34.5;-6.25;None
+-34.5;-5.625;None
+-34.5;-5.0;None
+-34.5;-4.375;None
+-34.5;-3.75;None
+-34.5;-3.125;None
+-34.5;-2.5;None
+-34.5;-1.875;None
+-34.5;-1.25;None
+-34.5;-0.625;None
+-34.5;-5.920304394294029e-13;None
+-34.5;0.625;None
+-34.5;1.25;None
+-34.5;1.875;None
+-34.5;2.5;None
+-34.5;3.125;None
+-34.5;3.75;None
+-34.5;4.375;None
+-34.5;5.0;None
+-34.5;5.625;None
+-34.5;6.25;None
+-34.5;6.875;None
+-34.5;7.5;None
+-34.5;8.125;None
+-34.5;8.75;None
+-34.5;9.375;None
+-34.5;10.0;None
+-34.5;10.625;None
+-34.5;11.25;None
+-34.5;11.875;None
+-34.5;12.5;None
+-34.5;13.125;None
+-34.5;13.75;None
+-34.5;14.375;None
+-34.5;15.0;None
+-34.5;15.625;None
+-34.5;16.25;None
+-34.5;16.875;None
+-34.5;17.5;None
+-34.5;18.125;None
+-34.5;18.75;Unnamed Road, South Africa
+-34.5;19.375;Unnamed Road, South Africa
+-34.5;20.0;R316, Bredasdorp, 7280, South Africa
+-34.5;20.625;Unnamed Road, Overberg DC, South Africa
+-34.5;21.25;Strand St, Jongensfontein, South Africa
+-34.5;21.875;South Africa
+-34.5;22.5;None
+-34.5;23.125;None
+-34.5;23.75;None
+-34.5;24.375;None
+-34.5;25.0;None
+-34.5;25.625;None
+-34.5;26.25;None
+-34.5;26.875;None
+-34.5;27.5;None
+-34.5;28.125;None
+-34.5;28.75;None
+-34.5;29.375;None
+-34.5;30.0;None
+-34.5;30.625;None
+-34.5;31.25;None
+-34.5;31.875;None
+-34.5;32.5;None
+-34.5;33.125;None
+-34.5;33.75;None
+-34.5;34.375;None
+-34.5;35.0;None
+-34.5;35.625;None
+-34.5;36.25;None
+-34.5;36.875;None
+-34.5;37.5;None
+-34.5;38.125;None
+-34.5;38.75;None
+-34.5;39.375;None
+-34.5;40.0;None
+-34.5;40.625;None
+-34.5;41.25;None
+-34.5;41.875;None
+-34.5;42.5;None
+-34.5;43.125;None
+-34.5;43.75;None
+-34.5;44.375;None
+-34.5;45.0;None
+-34.5;45.625;None
+-34.5;46.25;None
+-34.5;46.875;None
+-34.5;47.5;None
+-34.5;48.125;None
+-34.5;48.75;None
+-34.5;49.375;None
+-34.5;50.0;None
+-34.5;50.625;None
+-34.5;51.25;None
+-34.5;51.875;None
+-34.0;-17.5;None
+-34.0;-16.875;None
+-34.0;-16.25;None
+-34.0;-15.625;None
+-34.0;-15.0;None
+-34.0;-14.375;None
+-34.0;-13.75;None
+-34.0;-13.125;St Helena, Ascension and Tristan da Cunha
+-34.0;-12.5;St Helena, Ascension and Tristan da Cunha
+-34.0;-11.875;St Helena, Ascension and Tristan da Cunha
+-34.0;-11.25;St Helena, Ascension and Tristan da Cunha
+-34.0;-10.625;St Helena, Ascension and Tristan da Cunha
+-34.0;-10.0;St Helena, Ascension and Tristan da Cunha
+-34.0;-9.375;St Helena, Ascension and Tristan da Cunha
+-34.0;-8.75;St Helena, Ascension and Tristan da Cunha
+-34.0;-8.125;None
+-34.0;-7.5;None
+-34.0;-6.875;None
+-34.0;-6.25;None
+-34.0;-5.625;None
+-34.0;-5.0;None
+-34.0;-4.375;None
+-34.0;-3.75;None
+-34.0;-3.125;None
+-34.0;-2.5;None
+-34.0;-1.875;None
+-34.0;-1.25;None
+-34.0;-0.625;None
+-34.0;-5.920304394294029e-13;None
+-34.0;0.625;None
+-34.0;1.25;None
+-34.0;1.875;None
+-34.0;2.5;None
+-34.0;3.125;None
+-34.0;3.75;None
+-34.0;4.375;None
+-34.0;5.0;None
+-34.0;5.625;None
+-34.0;6.25;None
+-34.0;6.875;None
+-34.0;7.5;None
+-34.0;8.125;None
+-34.0;8.75;None
+-34.0;9.375;None
+-34.0;10.0;None
+-34.0;10.625;None
+-34.0;11.25;None
+-34.0;11.875;None
+-34.0;12.5;None
+-34.0;13.125;None
+-34.0;13.75;None
+-34.0;14.375;None
+-34.0;15.0;None
+-34.0;15.625;None
+-34.0;16.25;None
+-34.0;16.875;None
+-34.0;17.5;None
+-34.0;18.125;South Africa
+-34.0;18.75;Unnamed Road, South Africa
+-34.0;19.375;Unnamed Road, South Africa
+-34.0;20.0;Unnamed Road, South Africa
+-34.0;20.625;9 R324, Suurbraak, 6743, South Africa
+-34.0;21.25;Unnamed Road, Riversdale Settlement, Riversdale, South Africa
+-34.0;21.875;Unnamed Road, South Africa
+-34.0;22.5;725 Nchunchu Cl, Thembalethu, George, 6529, South Africa
+-34.0;23.125;R339, Rexford, Knysna, 6571, South Africa
+-34.0;23.75;Otter Trail, South Africa
+-34.0;24.375;Unnamed Road, Clarkson, 6302, South Africa
+-34.0;25.0;Kingfisher Cres, Gamtoos Mouth, 6360, South Africa
+-34.0;25.625;Driftsand WWTW Entrance, Schoenmakerskop, Port Elizabeth, 6011, South Africa
+-34.0;26.25;South Africa
+-34.0;26.875;None
+-34.0;27.5;None
+-34.0;28.125;None
+-34.0;28.75;None
+-34.0;29.375;None
+-34.0;30.0;None
+-34.0;30.625;None
+-34.0;31.25;None
+-34.0;31.875;None
+-34.0;32.5;None
+-34.0;33.125;None
+-34.0;33.75;None
+-34.0;34.375;None
+-34.0;35.0;None
+-34.0;35.625;None
+-34.0;36.25;None
+-34.0;36.875;None
+-34.0;37.5;None
+-34.0;38.125;None
+-34.0;38.75;None
+-34.0;39.375;None
+-34.0;40.0;None
+-34.0;40.625;None
+-34.0;41.25;None
+-34.0;41.875;None
+-34.0;42.5;None
+-34.0;43.125;None
+-34.0;43.75;None
+-34.0;44.375;None
+-34.0;45.0;None
+-34.0;45.625;None
+-34.0;46.25;None
+-34.0;46.875;None
+-34.0;47.5;None
+-34.0;48.125;None
+-34.0;48.75;None
+-34.0;49.375;None
+-34.0;50.0;None
+-34.0;50.625;None
+-34.0;51.25;None
+-34.0;51.875;None
+-33.5;-17.5;None
+-33.5;-16.875;None
+-33.5;-16.25;None
+-33.5;-15.625;None
+-33.5;-15.0;None
+-33.5;-14.375;None
+-33.5;-13.75;None
+-33.5;-13.125;None
+-33.5;-12.5;St Helena, Ascension and Tristan da Cunha
+-33.5;-11.875;St Helena, Ascension and Tristan da Cunha
+-33.5;-11.25;St Helena, Ascension and Tristan da Cunha
+-33.5;-10.625;St Helena, Ascension and Tristan da Cunha
+-33.5;-10.0;St Helena, Ascension and Tristan da Cunha
+-33.5;-9.375;St Helena, Ascension and Tristan da Cunha
+-33.5;-8.75;St Helena, Ascension and Tristan da Cunha
+-33.5;-8.125;St Helena, Ascension and Tristan da Cunha
+-33.5;-7.5;None
+-33.5;-6.875;None
+-33.5;-6.25;None
+-33.5;-5.625;None
+-33.5;-5.0;None
+-33.5;-4.375;None
+-33.5;-3.75;None
+-33.5;-3.125;None
+-33.5;-2.5;None
+-33.5;-1.875;None
+-33.5;-1.25;None
+-33.5;-0.625;None
+-33.5;-5.920304394294029e-13;None
+-33.5;0.625;None
+-33.5;1.25;None
+-33.5;1.875;None
+-33.5;2.5;None
+-33.5;3.125;None
+-33.5;3.75;None
+-33.5;4.375;None
+-33.5;5.0;None
+-33.5;5.625;None
+-33.5;6.25;None
+-33.5;6.875;None
+-33.5;7.5;None
+-33.5;8.125;None
+-33.5;8.75;None
+-33.5;9.375;None
+-33.5;10.0;None
+-33.5;10.625;None
+-33.5;11.25;None
+-33.5;11.875;None
+-33.5;12.5;None
+-33.5;13.125;None
+-33.5;13.75;None
+-33.5;14.375;None
+-33.5;15.0;None
+-33.5;15.625;None
+-33.5;16.25;None
+-33.5;16.875;None
+-33.5;17.5;None
+-33.5;18.125;153 Dassen Island Dr, Yzerfontein, 7351, South Africa
+-33.5;18.75;Unnamed Road, South Africa
+-33.5;19.375;Witels, South Africa
+-33.5;20.0;Unnamed Road, Breede River DC, South Africa
+-33.5;20.625;Unnamed Road, South Africa
+-33.5;21.25;Unnamed Road, South Africa
+-33.5;21.875;Unnamed Road, South Africa
+-33.5;22.5;N12, De Rust, 6651, South Africa
+-33.5;23.125;R339, South Cape DC, South Africa
+-33.5;23.75;R332, South Africa
+-33.5;24.375;Unnamed Road, South Africa
+-33.5;25.0;Unnamed Road, South Africa
+-33.5;25.625;R336, South Africa
+-33.5;26.25;Unnamed Road, South Africa
+-33.5;26.875;Unnamed Road, South Africa
+-33.5;27.5;South Africa
+-33.5;28.125;None
+-33.5;28.75;None
+-33.5;29.375;None
+-33.5;30.0;None
+-33.5;30.625;None
+-33.5;31.25;None
+-33.5;31.875;None
+-33.5;32.5;None
+-33.5;33.125;None
+-33.5;33.75;None
+-33.5;34.375;None
+-33.5;35.0;None
+-33.5;35.625;None
+-33.5;36.25;None
+-33.5;36.875;None
+-33.5;37.5;None
+-33.5;38.125;None
+-33.5;38.75;None
+-33.5;39.375;None
+-33.5;40.0;None
+-33.5;40.625;None
+-33.5;41.25;None
+-33.5;41.875;None
+-33.5;42.5;None
+-33.5;43.125;None
+-33.5;43.75;None
+-33.5;44.375;None
+-33.5;45.0;None
+-33.5;45.625;None
+-33.5;46.25;None
+-33.5;46.875;None
+-33.5;47.5;None
+-33.5;48.125;None
+-33.5;48.75;None
+-33.5;49.375;None
+-33.5;50.0;None
+-33.5;50.625;None
+-33.5;51.25;None
+-33.5;51.875;None
+-33.0;-17.5;None
+-33.0;-16.875;None
+-33.0;-16.25;None
+-33.0;-15.625;None
+-33.0;-15.0;None
+-33.0;-14.375;None
+-33.0;-13.75;None
+-33.0;-13.125;None
+-33.0;-12.5;St Helena, Ascension and Tristan da Cunha
+-33.0;-11.875;St Helena, Ascension and Tristan da Cunha
+-33.0;-11.25;St Helena, Ascension and Tristan da Cunha
+-33.0;-10.625;St Helena, Ascension and Tristan da Cunha
+-33.0;-10.0;St Helena, Ascension and Tristan da Cunha
+-33.0;-9.375;St Helena, Ascension and Tristan da Cunha
+-33.0;-8.75;St Helena, Ascension and Tristan da Cunha
+-33.0;-8.125;St Helena, Ascension and Tristan da Cunha
+-33.0;-7.5;None
+-33.0;-6.875;None
+-33.0;-6.25;None
+-33.0;-5.625;None
+-33.0;-5.0;None
+-33.0;-4.375;None
+-33.0;-3.75;None
+-33.0;-3.125;None
+-33.0;-2.5;None
+-33.0;-1.875;None
+-33.0;-1.25;None
+-33.0;-0.625;None
+-33.0;-5.920304394294029e-13;None
+-33.0;0.625;None
+-33.0;1.25;None
+-33.0;1.875;None
+-33.0;2.5;None
+-33.0;3.125;None
+-33.0;3.75;None
+-33.0;4.375;None
+-33.0;5.0;None
+-33.0;5.625;None
+-33.0;6.25;None
+-33.0;6.875;None
+-33.0;7.5;None
+-33.0;8.125;None
+-33.0;8.75;None
+-33.0;9.375;None
+-33.0;10.0;None
+-33.0;10.625;None
+-33.0;11.25;None
+-33.0;11.875;None
+-33.0;12.5;None
+-33.0;13.125;None
+-33.0;13.75;None
+-33.0;14.375;None
+-33.0;15.0;None
+-33.0;15.625;None
+-33.0;16.25;None
+-33.0;16.875;None
+-33.0;17.5;None
+-33.0;18.125;Langebaanweg, West Coast Peninsula, South Africa
+-33.0;18.75;N7, South Africa
+-33.0;19.375;Unnamed Road, South Africa
+-33.0;20.0;Unnamed Road, Breede River DC, South Africa
+-33.0;20.625;Unnamed Road, South Africa
+-33.0;21.25;Unnamed Road, South Africa
+-33.0;21.875;Unnamed Road, South Africa
+-33.0;22.5;Unnamed Road, South Africa
+-33.0;23.125;Unnamed Road, South Africa
+-33.0;23.75;Unnamed Road, South Africa
+-33.0;24.375;R339, Klipplaat, 6255, South Africa
+-33.0;25.0;Unnamed Road, South Africa
+-33.0;25.625;Unnamed Road, South Africa
+-33.0;26.25;Unnamed Road, South Africa
+-33.0;26.875;R345, South Africa
+-33.0;27.5;Unnamed Road, Bekruipkop, South Africa
+-33.0;28.125;South Africa
+-33.0;28.75;None
+-33.0;29.375;None
+-33.0;30.0;None
+-33.0;30.625;None
+-33.0;31.25;None
+-33.0;31.875;None
+-33.0;32.5;None
+-33.0;33.125;None
+-33.0;33.75;None
+-33.0;34.375;None
+-33.0;35.0;None
+-33.0;35.625;None
+-33.0;36.25;None
+-33.0;36.875;None
+-33.0;37.5;None
+-33.0;38.125;None
+-33.0;38.75;None
+-33.0;39.375;None
+-33.0;40.0;None
+-33.0;40.625;None
+-33.0;41.25;None
+-33.0;41.875;None
+-33.0;42.5;None
+-33.0;43.125;None
+-33.0;43.75;None
+-33.0;44.375;None
+-33.0;45.0;None
+-33.0;45.625;None
+-33.0;46.25;None
+-33.0;46.875;None
+-33.0;47.5;None
+-33.0;48.125;None
+-33.0;48.75;None
+-33.0;49.375;None
+-33.0;50.0;None
+-33.0;50.625;None
+-33.0;51.25;None
+-33.0;51.875;None
+-32.5;-17.5;None
+-32.5;-16.875;None
+-32.5;-16.25;None
+-32.5;-15.625;None
+-32.5;-15.0;None
+-32.5;-14.375;None
+-32.5;-13.75;None
+-32.5;-13.125;None
+-32.5;-12.5;St Helena, Ascension and Tristan da Cunha
+-32.5;-11.875;St Helena, Ascension and Tristan da Cunha
+-32.5;-11.25;St Helena, Ascension and Tristan da Cunha
+-32.5;-10.625;St Helena, Ascension and Tristan da Cunha
+-32.5;-10.0;St Helena, Ascension and Tristan da Cunha
+-32.5;-9.375;St Helena, Ascension and Tristan da Cunha
+-32.5;-8.75;St Helena, Ascension and Tristan da Cunha
+-32.5;-8.125;St Helena, Ascension and Tristan da Cunha
+-32.5;-7.5;None
+-32.5;-6.875;None
+-32.5;-6.25;None
+-32.5;-5.625;None
+-32.5;-5.0;None
+-32.5;-4.375;None
+-32.5;-3.75;None
+-32.5;-3.125;None
+-32.5;-2.5;None
+-32.5;-1.875;None
+-32.5;-1.25;None
+-32.5;-0.625;None
+-32.5;-5.920304394294029e-13;None
+-32.5;0.625;None
+-32.5;1.25;None
+-32.5;1.875;None
+-32.5;2.5;None
+-32.5;3.125;None
+-32.5;3.75;None
+-32.5;4.375;None
+-32.5;5.0;None
+-32.5;5.625;None
+-32.5;6.25;None
+-32.5;6.875;None
+-32.5;7.5;None
+-32.5;8.125;None
+-32.5;8.75;None
+-32.5;9.375;None
+-32.5;10.0;None
+-32.5;10.625;None
+-32.5;11.25;None
+-32.5;11.875;None
+-32.5;12.5;None
+-32.5;13.125;None
+-32.5;13.75;None
+-32.5;14.375;None
+-32.5;15.0;None
+-32.5;15.625;None
+-32.5;16.25;None
+-32.5;16.875;None
+-32.5;17.5;None
+-32.5;18.125;South Africa
+-32.5;18.75;Unnamed Road, South Africa
+-32.5;19.375;Unnamed Road, South Africa
+-32.5;20.0;Unnamed Road, Breede River DC, South Africa
+-32.5;20.625;R356, South Africa
+-32.5;21.25;Unnamed Road, South Africa
+-32.5;21.875;Unnamed Road, South Africa
+-32.5;22.5;Unnamed Road, South Africa
+-32.5;23.125;Unnamed Road, South Africa
+-32.5;23.75;Unnamed Road, South Africa
+-32.5;24.375;Unnamed Road, South Africa
+-32.5;25.0;Unnamed Road, South Africa
+-32.5;25.625;Unnamed Road, South Africa
+-32.5;26.25;R344, South Africa
+-32.5;26.875;R67, South Africa
+-32.5;27.5;Unnamed Road, South Africa
+-32.5;28.125;Unnamed Road, KwaNgwane, South Africa
+-32.5;28.75;Unnamed Road, Dimbeni, South Africa
+-32.5;29.375;None
+-32.5;30.0;None
+-32.5;30.625;None
+-32.5;31.25;None
+-32.5;31.875;None
+-32.5;32.5;None
+-32.5;33.125;None
+-32.5;33.75;None
+-32.5;34.375;None
+-32.5;35.0;None
+-32.5;35.625;None
+-32.5;36.25;None
+-32.5;36.875;None
+-32.5;37.5;None
+-32.5;38.125;None
+-32.5;38.75;None
+-32.5;39.375;None
+-32.5;40.0;None
+-32.5;40.625;None
+-32.5;41.25;None
+-32.5;41.875;None
+-32.5;42.5;None
+-32.5;43.125;None
+-32.5;43.75;None
+-32.5;44.375;None
+-32.5;45.0;None
+-32.5;45.625;None
+-32.5;46.25;None
+-32.5;46.875;None
+-32.5;47.5;None
+-32.5;48.125;None
+-32.5;48.75;None
+-32.5;49.375;None
+-32.5;50.0;None
+-32.5;50.625;None
+-32.5;51.25;None
+-32.5;51.875;None
+-32.0;-17.5;None
+-32.0;-16.875;None
+-32.0;-16.25;None
+-32.0;-15.625;None
+-32.0;-15.0;None
+-32.0;-14.375;None
+-32.0;-13.75;None
+-32.0;-13.125;None
+-32.0;-12.5;St Helena, Ascension and Tristan da Cunha
+-32.0;-11.875;St Helena, Ascension and Tristan da Cunha
+-32.0;-11.25;St Helena, Ascension and Tristan da Cunha
+-32.0;-10.625;St Helena, Ascension and Tristan da Cunha
+-32.0;-10.0;St Helena, Ascension and Tristan da Cunha
+-32.0;-9.375;St Helena, Ascension and Tristan da Cunha
+-32.0;-8.75;St Helena, Ascension and Tristan da Cunha
+-32.0;-8.125;St Helena, Ascension and Tristan da Cunha
+-32.0;-7.5;None
+-32.0;-6.875;None
+-32.0;-6.25;None
+-32.0;-5.625;None
+-32.0;-5.0;None
+-32.0;-4.375;None
+-32.0;-3.75;None
+-32.0;-3.125;None
+-32.0;-2.5;None
+-32.0;-1.875;None
+-32.0;-1.25;None
+-32.0;-0.625;None
+-32.0;-5.920304394294029e-13;None
+-32.0;0.625;None
+-32.0;1.25;None
+-32.0;1.875;None
+-32.0;2.5;None
+-32.0;3.125;None
+-32.0;3.75;None
+-32.0;4.375;None
+-32.0;5.0;None
+-32.0;5.625;None
+-32.0;6.25;None
+-32.0;6.875;None
+-32.0;7.5;None
+-32.0;8.125;None
+-32.0;8.75;None
+-32.0;9.375;None
+-32.0;10.0;None
+-32.0;10.625;None
+-32.0;11.25;None
+-32.0;11.875;None
+-32.0;12.5;None
+-32.0;13.125;None
+-32.0;13.75;None
+-32.0;14.375;None
+-32.0;15.0;None
+-32.0;15.625;None
+-32.0;16.25;None
+-32.0;16.875;None
+-32.0;17.5;None
+-32.0;18.125;South Africa
+-32.0;18.75;N7, South Africa
+-32.0;19.375;Unnamed Road, South Africa
+-32.0;20.0;Unnamed Road, South Africa
+-32.0;20.625;Unnamed Road, South Africa
+-32.0;21.25;Unnamed Road, South Africa
+-32.0;21.875;Unnamed Road, South Africa
+-32.0;22.5;R381, South Africa
+-32.0;23.125;Unnamed Road, Central Karoo DC, South Africa
+-32.0;23.75;Unnamed Road, Central Karoo DC, South Africa
+-32.0;24.375;Unnamed Road, South Africa
+-32.0;25.0;Unnamed Road, South Africa
+-32.0;25.625;Unnamed Road, South Africa
+-32.0;26.25;29 R61, Tarkastad, 5370, South Africa
+-32.0;26.875;Unnamed Road, South Africa
+-32.0;27.5;Unnamed Road, Cube, South Africa
+-32.0;28.125;Unnamed Road, Nabileyo, South Africa
+-32.0;28.75;Unnamed Road, Ngcobo, South Africa
+-32.0;29.375;Unnamed Road, Mamolweni, South Africa
+-32.0;30.0;None
+-32.0;30.625;None
+-32.0;31.25;None
+-32.0;31.875;None
+-32.0;32.5;None
+-32.0;33.125;None
+-32.0;33.75;None
+-32.0;34.375;None
+-32.0;35.0;None
+-32.0;35.625;None
+-32.0;36.25;None
+-32.0;36.875;None
+-32.0;37.5;None
+-32.0;38.125;None
+-32.0;38.75;None
+-32.0;39.375;None
+-32.0;40.0;None
+-32.0;40.625;None
+-32.0;41.25;None
+-32.0;41.875;None
+-32.0;42.5;None
+-32.0;43.125;None
+-32.0;43.75;None
+-32.0;44.375;None
+-32.0;45.0;None
+-32.0;45.625;None
+-32.0;46.25;None
+-32.0;46.875;None
+-32.0;47.5;None
+-32.0;48.125;None
+-32.0;48.75;None
+-32.0;49.375;None
+-32.0;50.0;None
+-32.0;50.625;None
+-32.0;51.25;None
+-32.0;51.875;None
+-31.5;-17.5;None
+-31.5;-16.875;None
+-31.5;-16.25;None
+-31.5;-15.625;None
+-31.5;-15.0;None
+-31.5;-14.375;None
+-31.5;-13.75;None
+-31.5;-13.125;None
+-31.5;-12.5;St Helena, Ascension and Tristan da Cunha
+-31.5;-11.875;St Helena, Ascension and Tristan da Cunha
+-31.5;-11.25;St Helena, Ascension and Tristan da Cunha
+-31.5;-10.625;St Helena, Ascension and Tristan da Cunha
+-31.5;-10.0;St Helena, Ascension and Tristan da Cunha
+-31.5;-9.375;St Helena, Ascension and Tristan da Cunha
+-31.5;-8.75;St Helena, Ascension and Tristan da Cunha
+-31.5;-8.125;St Helena, Ascension and Tristan da Cunha
+-31.5;-7.5;St Helena, Ascension and Tristan da Cunha
+-31.5;-6.875;None
+-31.5;-6.25;None
+-31.5;-5.625;None
+-31.5;-5.0;None
+-31.5;-4.375;None
+-31.5;-3.75;None
+-31.5;-3.125;None
+-31.5;-2.5;None
+-31.5;-1.875;None
+-31.5;-1.25;None
+-31.5;-0.625;None
+-31.5;-5.920304394294029e-13;None
+-31.5;0.625;None
+-31.5;1.25;None
+-31.5;1.875;None
+-31.5;2.5;None
+-31.5;3.125;None
+-31.5;3.75;None
+-31.5;4.375;None
+-31.5;5.0;None
+-31.5;5.625;None
+-31.5;6.25;None
+-31.5;6.875;None
+-31.5;7.5;None
+-31.5;8.125;None
+-31.5;8.75;None
+-31.5;9.375;None
+-31.5;10.0;None
+-31.5;10.625;None
+-31.5;11.25;None
+-31.5;11.875;None
+-31.5;12.5;None
+-31.5;13.125;None
+-31.5;13.75;None
+-31.5;14.375;None
+-31.5;15.0;None
+-31.5;15.625;None
+-31.5;16.25;None
+-31.5;16.875;None
+-31.5;17.5;None
+-31.5;18.125;Unnamed Road, Olifants River Settlement, South Africa
+-31.5;18.75;Unnamed Road, South Africa
+-31.5;19.375;R27, South Africa
+-31.5;20.0;Unnamed Road, South Africa
+-31.5;20.625;Unnamed Road, South Africa
+-31.5;21.25;Unnamed Road, South Africa
+-31.5;21.875;Unnamed Road, South Africa
+-31.5;22.5;Unnamed Road, South Africa
+-31.5;23.125;Unnamed Road, Hutchinson, 7070, South Africa
+-31.5;23.75;Unnamed Road, South Africa
+-31.5;24.375;Unnamed Road, South Africa
+-31.5;25.0;30 Joubert St, Middelburg - Ec, Middelburg, 5900, South Africa
+-31.5;25.625;Unnamed Road, South Africa
+-31.5;26.25;Unnamed Road, South Africa
+-31.5;26.875;R344, South Africa
+-31.5;27.5;Unnamed Road, Upper Cala, South Africa
+-31.5;28.125;Unnamed Road, South Africa
+-31.5;28.75;Unnamed Road, Cwecwe, South Africa
+-31.5;29.375;Unnamed Road, Ndwalane, South Africa
+-31.5;30.0;Unnamed Road, Rhole, South Africa
+-31.5;30.625;None
+-31.5;31.25;None
+-31.5;31.875;None
+-31.5;32.5;None
+-31.5;33.125;None
+-31.5;33.75;None
+-31.5;34.375;None
+-31.5;35.0;None
+-31.5;35.625;None
+-31.5;36.25;None
+-31.5;36.875;None
+-31.5;37.5;None
+-31.5;38.125;None
+-31.5;38.75;None
+-31.5;39.375;None
+-31.5;40.0;None
+-31.5;40.625;None
+-31.5;41.25;None
+-31.5;41.875;None
+-31.5;42.5;None
+-31.5;43.125;None
+-31.5;43.75;None
+-31.5;44.375;None
+-31.5;45.0;None
+-31.5;45.625;None
+-31.5;46.25;None
+-31.5;46.875;None
+-31.5;47.5;None
+-31.5;48.125;None
+-31.5;48.75;None
+-31.5;49.375;None
+-31.5;50.0;None
+-31.5;50.625;None
+-31.5;51.25;None
+-31.5;51.875;None
+-31.0;-17.5;None
+-31.0;-16.875;None
+-31.0;-16.25;None
+-31.0;-15.625;None
+-31.0;-15.0;None
+-31.0;-14.375;None
+-31.0;-13.75;None
+-31.0;-13.125;None
+-31.0;-12.5;None
+-31.0;-11.875;St Helena, Ascension and Tristan da Cunha
+-31.0;-11.25;St Helena, Ascension and Tristan da Cunha
+-31.0;-10.625;St Helena, Ascension and Tristan da Cunha
+-31.0;-10.0;St Helena, Ascension and Tristan da Cunha
+-31.0;-9.375;St Helena, Ascension and Tristan da Cunha
+-31.0;-8.75;St Helena, Ascension and Tristan da Cunha
+-31.0;-8.125;St Helena, Ascension and Tristan da Cunha
+-31.0;-7.5;St Helena, Ascension and Tristan da Cunha
+-31.0;-6.875;None
+-31.0;-6.25;None
+-31.0;-5.625;None
+-31.0;-5.0;None
+-31.0;-4.375;None
+-31.0;-3.75;None
+-31.0;-3.125;None
+-31.0;-2.5;None
+-31.0;-1.875;None
+-31.0;-1.25;None
+-31.0;-0.625;None
+-31.0;-5.920304394294029e-13;None
+-31.0;0.625;None
+-31.0;1.25;None
+-31.0;1.875;None
+-31.0;2.5;None
+-31.0;3.125;None
+-31.0;3.75;None
+-31.0;4.375;None
+-31.0;5.0;None
+-31.0;5.625;None
+-31.0;6.25;None
+-31.0;6.875;None
+-31.0;7.5;None
+-31.0;8.125;None
+-31.0;8.75;None
+-31.0;9.375;None
+-31.0;10.0;None
+-31.0;10.625;None
+-31.0;11.25;None
+-31.0;11.875;None
+-31.0;12.5;None
+-31.0;13.125;None
+-31.0;13.75;None
+-31.0;14.375;None
+-31.0;15.0;None
+-31.0;15.625;None
+-31.0;16.25;None
+-31.0;16.875;None
+-31.0;17.5;Unnamed Road, South Africa
+-31.0;18.125;Unnamed Road, West Coast DC, South Africa
+-31.0;18.75;Unnamed Road, West Coast DC, South Africa
+-31.0;19.375;R355, South Africa
+-31.0;20.0;Unnamed Road, South Africa
+-31.0;20.625;Unnamed Road, South Africa
+-31.0;21.25;Unnamed Road, South Africa
+-31.0;21.875;Unnamed Road, South Africa
+-31.0;22.5;Unnamed Road, South Africa
+-31.0;23.125;Unnamed Road, South Africa
+-31.0;23.75;Unnamed Road, South Africa
+-31.0;24.375;301 N10, South Africa
+-31.0;25.0;N9, South Africa
+-31.0;25.625;Unnamed Road, South Africa
+-31.0;26.25;Unnamed Road, South Africa
+-31.0;26.875;Unnamed Road, South Africa
+-31.0;27.5;Unnamed Road, South Africa
+-31.0;28.125;Unnamed Road, South Africa
+-31.0;28.75;Unnamed Road, Upper Lwandlana, South Africa
+-31.0;29.375;Unnamed Road, South Africa
+-31.0;30.0;R61, Makewini, South Africa
+-31.0;30.625;None
+-31.0;31.25;None
+-31.0;31.875;None
+-31.0;32.5;None
+-31.0;33.125;None
+-31.0;33.75;None
+-31.0;34.375;None
+-31.0;35.0;None
+-31.0;35.625;None
+-31.0;36.25;None
+-31.0;36.875;None
+-31.0;37.5;None
+-31.0;38.125;None
+-31.0;38.75;None
+-31.0;39.375;None
+-31.0;40.0;None
+-31.0;40.625;None
+-31.0;41.25;None
+-31.0;41.875;None
+-31.0;42.5;None
+-31.0;43.125;None
+-31.0;43.75;None
+-31.0;44.375;None
+-31.0;45.0;None
+-31.0;45.625;None
+-31.0;46.25;None
+-31.0;46.875;None
+-31.0;47.5;None
+-31.0;48.125;None
+-31.0;48.75;None
+-31.0;49.375;None
+-31.0;50.0;None
+-31.0;50.625;None
+-31.0;51.25;None
+-31.0;51.875;None
+-30.5;-17.5;None
+-30.5;-16.875;None
+-30.5;-16.25;None
+-30.5;-15.625;None
+-30.5;-15.0;None
+-30.5;-14.375;None
+-30.5;-13.75;None
+-30.5;-13.125;None
+-30.5;-12.5;None
+-30.5;-11.875;St Helena, Ascension and Tristan da Cunha
+-30.5;-11.25;St Helena, Ascension and Tristan da Cunha
+-30.5;-10.625;St Helena, Ascension and Tristan da Cunha
+-30.5;-10.0;St Helena, Ascension and Tristan da Cunha
+-30.5;-9.375;St Helena, Ascension and Tristan da Cunha
+-30.5;-8.75;St Helena, Ascension and Tristan da Cunha
+-30.5;-8.125;St Helena, Ascension and Tristan da Cunha
+-30.5;-7.5;St Helena, Ascension and Tristan da Cunha
+-30.5;-6.875;None
+-30.5;-6.25;None
+-30.5;-5.625;None
+-30.5;-5.0;None
+-30.5;-4.375;None
+-30.5;-3.75;None
+-30.5;-3.125;None
+-30.5;-2.5;None
+-30.5;-1.875;None
+-30.5;-1.25;None
+-30.5;-0.625;None
+-30.5;-5.920304394294029e-13;None
+-30.5;0.625;None
+-30.5;1.25;None
+-30.5;1.875;None
+-30.5;2.5;None
+-30.5;3.125;None
+-30.5;3.75;None
+-30.5;4.375;None
+-30.5;5.0;None
+-30.5;5.625;None
+-30.5;6.25;None
+-30.5;6.875;None
+-30.5;7.5;None
+-30.5;8.125;None
+-30.5;8.75;None
+-30.5;9.375;None
+-30.5;10.0;None
+-30.5;10.625;None
+-30.5;11.25;None
+-30.5;11.875;None
+-30.5;12.5;None
+-30.5;13.125;None
+-30.5;13.75;None
+-30.5;14.375;None
+-30.5;15.0;None
+-30.5;15.625;None
+-30.5;16.25;None
+-30.5;16.875;None
+-30.5;17.5;Unnamed Road, South Africa
+-30.5;18.125;Unnamed Road, South Africa
+-30.5;18.75;R358, South Africa
+-30.5;19.375;Unnamed Road, South Africa
+-30.5;20.0;Unnamed Road, South Africa
+-30.5;20.625;Unnamed Road, South Africa
+-30.5;21.25;Unnamed Road, South Africa
+-30.5;21.875;R361, South Africa
+-30.5;22.5;Unnamed Road, South Africa
+-30.5;23.125;Unnamed Road, South Africa
+-30.5;23.75;Unnamed Road, South Africa
+-30.5;24.375;Unnamed Road, South Africa
+-30.5;25.0;Unnamed Road, South Africa
+-30.5;25.625;Unnamed Road, South Africa
+-30.5;26.25;Unnamed Road, South Africa
+-30.5;26.875;Unnamed Road, South Africa
+-30.5;27.5;Unnamed Road, Era, South Africa
+-30.5;28.125;Unnamed Road, Lesotho
+-30.5;28.75;Unnamed Road, eNyanisweni, South Africa
+-30.5;29.375;Unnamed Road, Kokstad, 4700, South Africa
+-30.5;30.0;Unnamed Road, Mtintanyoni, South Africa
+-30.5;30.625;Cowey Road & N2, Mnamfu, South Africa
+-30.5;31.25;None
+-30.5;31.875;None
+-30.5;32.5;None
+-30.5;33.125;None
+-30.5;33.75;None
+-30.5;34.375;None
+-30.5;35.0;None
+-30.5;35.625;None
+-30.5;36.25;None
+-30.5;36.875;None
+-30.5;37.5;None
+-30.5;38.125;None
+-30.5;38.75;None
+-30.5;39.375;None
+-30.5;40.0;None
+-30.5;40.625;None
+-30.5;41.25;None
+-30.5;41.875;None
+-30.5;42.5;None
+-30.5;43.125;None
+-30.5;43.75;None
+-30.5;44.375;None
+-30.5;45.0;None
+-30.5;45.625;None
+-30.5;46.25;None
+-30.5;46.875;None
+-30.5;47.5;None
+-30.5;48.125;None
+-30.5;48.75;None
+-30.5;49.375;None
+-30.5;50.0;None
+-30.5;50.625;None
+-30.5;51.25;None
+-30.5;51.875;None
+-30.0;-17.5;None
+-30.0;-16.875;None
+-30.0;-16.25;None
+-30.0;-15.625;None
+-30.0;-15.0;None
+-30.0;-14.375;None
+-30.0;-13.75;None
+-30.0;-13.125;None
+-30.0;-12.5;None
+-30.0;-11.875;St Helena, Ascension and Tristan da Cunha
+-30.0;-11.25;St Helena, Ascension and Tristan da Cunha
+-30.0;-10.625;St Helena, Ascension and Tristan da Cunha
+-30.0;-10.0;St Helena, Ascension and Tristan da Cunha
+-30.0;-9.375;St Helena, Ascension and Tristan da Cunha
+-30.0;-8.75;St Helena, Ascension and Tristan da Cunha
+-30.0;-8.125;St Helena, Ascension and Tristan da Cunha
+-30.0;-7.5;St Helena, Ascension and Tristan da Cunha
+-30.0;-6.875;None
+-30.0;-6.25;None
+-30.0;-5.625;None
+-30.0;-5.0;None
+-30.0;-4.375;None
+-30.0;-3.75;None
+-30.0;-3.125;None
+-30.0;-2.5;None
+-30.0;-1.875;None
+-30.0;-1.25;None
+-30.0;-0.625;None
+-30.0;-5.920304394294029e-13;None
+-30.0;0.625;None
+-30.0;1.25;None
+-30.0;1.875;None
+-30.0;2.5;None
+-30.0;3.125;None
+-30.0;3.75;None
+-30.0;4.375;None
+-30.0;5.0;None
+-30.0;5.625;None
+-30.0;6.25;None
+-30.0;6.875;None
+-30.0;7.5;None
+-30.0;8.125;None
+-30.0;8.75;None
+-30.0;9.375;None
+-30.0;10.0;None
+-30.0;10.625;None
+-30.0;11.25;None
+-30.0;11.875;None
+-30.0;12.5;None
+-30.0;13.125;None
+-30.0;13.75;None
+-30.0;14.375;None
+-30.0;15.0;None
+-30.0;15.625;None
+-30.0;16.25;None
+-30.0;16.875;None
+-30.0;17.5;Unnamed Road, South Africa
+-30.0;18.125;Unnamed Road, South Africa
+-30.0;18.75;Unnamed Road, South Africa
+-30.0;19.375;Unnamed Road, South Africa
+-30.0;20.0;Unnamed Road, South Africa
+-30.0;20.625;R27, South Africa
+-30.0;21.25;Unnamed Road, South Africa
+-30.0;21.875;Unnamed Road, South Africa
+-30.0;22.5;Unnamed Road, South Africa
+-30.0;23.125;Unnamed Road, South Africa
+-30.0;23.75;Unnamed Road, South Africa
+-30.0;24.375;Unnamed Road, South Africa
+-30.0;25.0;Unnamed Road, South Africa
+-30.0;25.625;Unnamed Road, South Africa
+-30.0;26.25;Unnamed Road, South Africa
+-30.0;26.875;Unnamed Road, South Africa
+-30.0;27.5;Unnamed Road, Lesotho
+-30.0;28.125;Unnamed Road, Lesotho
+-30.0;28.75;Unnamed Road, Lesotho
+-30.0;29.375;Unnamed Road, South Africa
+-30.0;30.0;Unnamed Road, South Africa
+-30.0;30.625;Unnamed Road, South Africa
+-30.0;31.25;South Africa
+-30.0;31.875;None
+-30.0;32.5;None
+-30.0;33.125;None
+-30.0;33.75;None
+-30.0;34.375;None
+-30.0;35.0;None
+-30.0;35.625;None
+-30.0;36.25;None
+-30.0;36.875;None
+-30.0;37.5;None
+-30.0;38.125;None
+-30.0;38.75;None
+-30.0;39.375;None
+-30.0;40.0;None
+-30.0;40.625;None
+-30.0;41.25;None
+-30.0;41.875;None
+-30.0;42.5;None
+-30.0;43.125;None
+-30.0;43.75;None
+-30.0;44.375;None
+-30.0;45.0;None
+-30.0;45.625;None
+-30.0;46.25;None
+-30.0;46.875;None
+-30.0;47.5;None
+-30.0;48.125;None
+-30.0;48.75;None
+-30.0;49.375;None
+-30.0;50.0;None
+-30.0;50.625;None
+-30.0;51.25;None
+-30.0;51.875;None
+-29.5;-17.5;None
+-29.5;-16.875;None
+-29.5;-16.25;None
+-29.5;-15.625;None
+-29.5;-15.0;None
+-29.5;-14.375;None
+-29.5;-13.75;None
+-29.5;-13.125;None
+-29.5;-12.5;None
+-29.5;-11.875;St Helena, Ascension and Tristan da Cunha
+-29.5;-11.25;St Helena, Ascension and Tristan da Cunha
+-29.5;-10.625;St Helena, Ascension and Tristan da Cunha
+-29.5;-10.0;St Helena, Ascension and Tristan da Cunha
+-29.5;-9.375;St Helena, Ascension and Tristan da Cunha
+-29.5;-8.75;St Helena, Ascension and Tristan da Cunha
+-29.5;-8.125;St Helena, Ascension and Tristan da Cunha
+-29.5;-7.5;St Helena, Ascension and Tristan da Cunha
+-29.5;-6.875;None
+-29.5;-6.25;None
+-29.5;-5.625;None
+-29.5;-5.0;None
+-29.5;-4.375;None
+-29.5;-3.75;None
+-29.5;-3.125;None
+-29.5;-2.5;None
+-29.5;-1.875;None
+-29.5;-1.25;None
+-29.5;-0.625;None
+-29.5;-5.920304394294029e-13;None
+-29.5;0.625;None
+-29.5;1.25;None
+-29.5;1.875;None
+-29.5;2.5;None
+-29.5;3.125;None
+-29.5;3.75;None
+-29.5;4.375;None
+-29.5;5.0;None
+-29.5;5.625;None
+-29.5;6.25;None
+-29.5;6.875;None
+-29.5;7.5;None
+-29.5;8.125;None
+-29.5;8.75;None
+-29.5;9.375;None
+-29.5;10.0;None
+-29.5;10.625;None
+-29.5;11.25;None
+-29.5;11.875;None
+-29.5;12.5;None
+-29.5;13.125;None
+-29.5;13.75;None
+-29.5;14.375;None
+-29.5;15.0;None
+-29.5;15.625;None
+-29.5;16.25;None
+-29.5;16.875;South Africa
+-29.5;17.5;Unnamed Road, South Africa
+-29.5;18.125;Unnamed Road, South Africa
+-29.5;18.75;Unnamed Road, South Africa
+-29.5;19.375;Unnamed Road, South Africa
+-29.5;20.0;Unnamed Road, South Africa
+-29.5;20.625;Unnamed Road, South Africa
+-29.5;21.25;Unnamed Road, South Africa
+-29.5;21.875;Unnamed Road, South Africa
+-29.5;22.5;Unnamed Road, South Africa
+-29.5;23.125;Unnamed Road, South Africa
+-29.5;23.75;Unnamed Road, South Africa
+-29.5;24.375;Unnamed Road, South Africa
+-29.5;25.0;Unnamed Road, South Africa
+-29.5;25.625;Unnamed Road, South Africa
+-29.5;26.25;Unnamed Road, South Africa
+-29.5;26.875;Unnamed Road, South Africa
+-29.5;27.5;Unnamed Road, Lesotho
+-29.5;28.125;Unnamed Road, Lesotho
+-29.5;28.75;Unnamed Road, Lesotho
+-29.5;29.375;Unnamed Road, Mkhomazi Wilderness area, South Africa
+-29.5;30.0;Unnamed Road, South Africa
+-29.5;30.625;Unnamed Road, Mambedwini, 3233, South Africa
+-29.5;31.25;17 Ralphs Pl, Salt Rock, Dolphin Coast, 4420, South Africa
+-29.5;31.875;None
+-29.5;32.5;None
+-29.5;33.125;None
+-29.5;33.75;None
+-29.5;34.375;None
+-29.5;35.0;None
+-29.5;35.625;None
+-29.5;36.25;None
+-29.5;36.875;None
+-29.5;37.5;None
+-29.5;38.125;None
+-29.5;38.75;None
+-29.5;39.375;None
+-29.5;40.0;None
+-29.5;40.625;None
+-29.5;41.25;None
+-29.5;41.875;None
+-29.5;42.5;None
+-29.5;43.125;None
+-29.5;43.75;None
+-29.5;44.375;None
+-29.5;45.0;None
+-29.5;45.625;None
+-29.5;46.25;None
+-29.5;46.875;None
+-29.5;47.5;None
+-29.5;48.125;None
+-29.5;48.75;None
+-29.5;49.375;None
+-29.5;50.0;None
+-29.5;50.625;None
+-29.5;51.25;None
+-29.5;51.875;None
+-29.0;-17.5;None
+-29.0;-16.875;None
+-29.0;-16.25;None
+-29.0;-15.625;None
+-29.0;-15.0;None
+-29.0;-14.375;None
