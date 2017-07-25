@@ -17,5 +17,6 @@ for line in lines:
     lat = splitted[0]
     lon = splitted[1]
     print(lat, lon)
-    location = get_location(lat,lon)
-    locations.append()
+    with open("locations" + '.txt', 'a') as outFile:
+        data = ','.join([lat, lon, get_location(lat, lon)])
+        print(data)
