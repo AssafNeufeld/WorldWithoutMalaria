@@ -21,7 +21,7 @@ for f in onlyfiles:
     yd= year+day
     if yd < startDate or yd > endDate:
         continue
-        
+
     if groups.get(year) is None:
         groups[year]={}
     yearGroup = groups[year]
@@ -32,14 +32,24 @@ for f in onlyfiles:
 
 for year, dic in groups.items():
     print("Merging year " + year)
+    includeHeader = True
     with open(year + '.txt', 'a') as outFile:
+        firstLine=True
         for day, data in dic.items():
             sdate = [year + "-" + day[:2] + "-" + day[2:]]
             with open(join(path, data["tavg1"]),'r') as tavg1:
                 with open(join(path, data["statD"]), 'r') as statD:
                     for line in tavg1:
-                        sRow = statD.readline().split(',')
-                        tRow = line.split(',')
+                        sRow = statD.readline().strip('\n').split(',')
+                        tRow = line.strip('\n').split(',')
                         out = sdate + [str(e) for e in sRow + tRow[2:]]
-                        s=','.join(out)
-                        outFile.write(s)
+                        s=','.join(out)+'\n'
+                        if firstLine:
+                            if includeHeader:
+                                outFile.write(s)
+                                includeHeader=False
+                                firstLine=False
+                                continue
+                        else:
+                            outFile.write(s)
+
