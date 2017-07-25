@@ -3,14 +3,11 @@ from os.path import isfile, join
 import sys
 import re
 
-# path = sys.argv[1]
-path = 'C:\\Barak\\WorldWithoutMalaria\\nasa\\example_data'
+path = sys.argv[1]
+startDate = sys.argv[2]
+endDate = sys.argv[3]
 
-m = re.search("MERRA2_300.(.*)_2d_slv_Nx.([0-9]{4})([0-9]{4}).txt", "MERRA2_300.statD_2d_slv_Nx.20041207.txt")
-type = m.group(1)
-year = m.group(2)
-
-print("Merging directory " +path)
+print("Merging directory " +path + "between " + startDate + " and " + endDate)
 onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
 
 groups = {}
@@ -21,6 +18,10 @@ for f in onlyfiles:
     type = m.group(1)
     year = m.group(2)
     day = m.group(3)
+    yd= year+day
+    if yd < startDate or yd > endDate:
+        continue
+        
     if groups.get(year) is None:
         groups[year]={}
     yearGroup = groups[year]
