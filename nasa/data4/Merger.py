@@ -40,10 +40,10 @@ for year, dic in groups.items():
             with open(join(path, data["tavg1"]),'r') as tavg1:
                 with open(join(path, data["statD"]), 'r') as statD:
                     for line in tavg1:
-                        sRow = statD.readline().split(',')
-                        tRow = line.split(',')
+                        sRow = statD.readline().strip('\n').split(',')
+                        tRow = line.strip('\n').split(',')
                         out = sdate + [str(e) for e in sRow + tRow[2:]]
-                        s=','.join(out)
+                        s=','.join(out)+'\n'
                         if firstLine:
                             if includeHeader:
                                 outFile.write(s)
