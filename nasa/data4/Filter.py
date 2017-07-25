@@ -529,10 +529,8 @@ geos = {"-8.5_14.375",
 }
 
 import sys
-#path = sys.argv[1]
-#outputPath = sys.argv[2]
-path = "2001.txt"
-outputPath = "2001.f.txt"
+path = sys.argv[1]
+outputPath = sys.argv[2]
 
 
 with open(path,'r') as inputFile:
