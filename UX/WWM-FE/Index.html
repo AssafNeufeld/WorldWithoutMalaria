@@ -8,7 +8,34 @@
 
     <script src="http://www.webglearth.com/v2/api.js"></script>
     <script>
-      function initialize() {
+        function initialize() {
+            var alertData = [
+                  {
+                      "Country": "Osire, Namibia",
+                      "Percent": "52%",
+                      "Affected": "350k"
+                  },
+                  {
+                      "Country": "Mopty, Mali",
+                      "Percent": "22%",
+                      "Affected": "100k"
+                  },
+                   {
+                       "Country": "Djibuti, Mali",
+                       "Percent": "10%",
+                       "Affected": "20k"
+                   },
+                    {
+                        "Country": "Moz, Mali",
+                        "Percent": "5%",
+                        "Affected": "23k"
+                    }
+           ];
+
+            var theTemplateScript = $("#alert-template").html();
+            var theTemplate = Handlebars.compile (theTemplateScript); 
+            $(".alertNav").append (theTemplate(alertData));
+
           var options = {
               sky: true,
               atmosphere: true,
@@ -37,6 +64,43 @@
       }
     </script>
 
+    <script id="alert-template" type="x-handlebars-template">
+        {{#each this}}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title">{{Country}}</h2>
+            </div>
+            <div class="panel-body">
+                <ul class="flex-container">
+                    <li class="flex-item">
+                        <div class="alert-number">{{Percent}}</div>
+                        <div class="alert-content">Probability of Malaria outbreak within 2 weeks</div>
+                    </li>
+                    <li class="flex-item">
+                        <div class="alert-number">
+                            <span class="glyphicon glyphicon-user" aria-hidden="true"></span> {{Affected}}
+                        </div>
+                        <div class="alert-content">People immediately at-risk</div>
+                    </li>
+                    <li class="flex-item">
+                        <!-- Single button -->
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                How to help? <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Donate</a></li>
+                                <li><a href="#">Raise Awareness</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        {{/each}}
+
+    </script>
+
     <script src="js/main.js"></script>
 
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -61,50 +125,18 @@
         </div>
     </nav>
 
-    <div class="">
-        <div class="panel-heading">
-            <div class="panel-body">
-                <div class="tab-content">
-                    <div class="tab-pane fade in active" id="tab1">
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">Osire, Namibia</h3>
-                            </div>
-                            <div class="panel-body">
-                                <ul class="flex-container">
-                                    <li class="flex-item">
-                                        <div class="alert-number">52%</div>
-                                        <div class="alert-content">Probability of Malaria outbreak within 2 weeks</div>
-                                    </li>
-                                    <li class="flex-item">
-                                        <div class="alert-number">
-                                            <span class="glyphicon glyphicon-user" aria-hidden="true"></span> 35k
-                                        </div>
-                                        <div class="alert-content">People immediately at-risk</div>
-                                    </li>
-                                    <li class="flex-item">
-                                        <!-- Single button -->
-                                        <div class="btn-group">
-                                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                How to help? <span class="caret"></span>
-                                            </button>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="#">Donate</a></li>
-                                                <li><a href="#">Raise Awareness</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="tab2">
-                        <div id="earth_div"></div>
-                    </div>
-                    <div class="tab-pane fade" id="tab3"></div>
+    <div class="panel-heading">
+        <div class="panel-body">
+            <div class="tab-content">
+                <div class="tab-pane fade in active alertNav" id="tab1">
+                </div>                 <div class="tab-pane fade" id="tab2">
+                    <div id="earth_div"></div>
                 </div>
+                <div class="tab-pane fade" id="tab3"></div>
             </div>
         </div>
     </div>
+
+
 </body>
 </html>
