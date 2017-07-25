@@ -52,5 +52,5 @@ for year, dic in groups.items():
                                 includeHeader=False
                                 firstLine=False
                                 continue
-                        else:
+                        elif "Latitude" not in s:
                             outFile.write(s)
