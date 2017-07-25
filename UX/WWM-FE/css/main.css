@@ -1,4 +1,4 @@
-﻿body { padding-top: 70px; }
+﻿
 
 .parent {
     display: flex;
@@ -46,14 +46,27 @@
 
 .alert-content {
     font-weight: bold;
-
 }
 
-#earth_div {
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    position: absolute !important;
-}   
+#tab2 {
+    height: 100%;
+    width: 100%;
+}
+
+#map 
+{
+    height: 600px;
+    width: 100%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    padding-top: 70px; 
+}
    
