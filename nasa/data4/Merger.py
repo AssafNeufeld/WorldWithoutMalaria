@@ -33,7 +33,7 @@ for f in onlyfiles:
 for year, dic in groups.items():
     print("Merging year " + year)
     includeHeader = True
-    with open(year + '.txt', 'a') as outFile:
+    with open(year + '.txt', 'w') as outFile:
         firstLine=True
         for day, data in dic.items():
             sdate = [year + "-" + day[:2] + "-" + day[2:]]
@@ -54,4 +54,3 @@ for year, dic in groups.items():
                                 continue
                         else:
                             outFile.write(s)
-
