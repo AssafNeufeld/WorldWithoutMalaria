@@ -5,10 +5,10 @@ import numpy as np
 import netCDF4 as nc4
 import sys
 
-#This finds the user's current path so that all hdf4 files can be found
-yeartoFeatch = int(sys.argv[1])
+yearToFetch = int(sys.argv[1])
 code = sys.argv[2]
 
+#This finds the user's current path so that all hdf4 files can be found
 def readparamsFromFile(FILE_NAME, params):
     try:
         #read in the data
@@ -64,19 +64,19 @@ def readparamsFromFile(FILE_NAME, params):
     except:
         pass
 
-for year in range(yeartoFeatch, yeartoFeatch+1):
+for year in range(yearToFetch, yearToFetch+1):
     for month in range(1, 13):
         for day in range(1, 32):
             try:
                 month = str(month).zfill(2)
                 day = str(day).zfill(2)
                 year = str(year)
-                url = 'https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2SDNXSLV.5.12.4/' + year + '/' + month + '/MERRA2_'+ code + '.statD_2d_slv_Nx.' + year + month + day + '.nc4'
+                url = 'https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2SDNXSLV.5.12.4/' + year + '/' + month + '/MERRA2_'+code+'.statD_2d_slv_Nx.' + year + month + day + '.nc4'
                 filename = 'MERRA2_200.statD_2d_slv_Nx.' + year + month + day + '.nc4'
                 os.system('wget --user=barakyaari --password=malariaPass1 ' + url)
                 readparamsFromFile(filename, {"T2MMAX", "T2MMIN", "T2MMEAN"})
                 os.system('rm ' + filename)
-                url = 'https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2T1NXSLV.5.12.4/' + year + '/' + month + '/MERRA2_'+ code+ '.tavg1_2d_slv_Nx.' + year + month + day + '.nc4'
+                url = 'https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2T1NXSLV.5.12.4/' + year + '/' + month + '/MERRA2_'+code+'.tavg1_2d_slv_Nx.' + year + month + day + '.nc4'
                 filename = 'MERRA2_200.tavg1_2d_slv_Nx.' + year + month + day + '.nc4'
                 os.system('wget --user=barakyaari --password=malariaPass1 ' + url)
                 readparamsFromFile(filename, {"QV2M", "TQL"})
