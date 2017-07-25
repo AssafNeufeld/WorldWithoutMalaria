@@ -8,6 +8,7 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/handlebars-v4.0.10.js"></script>
     <script src="js/main.js"></script>
+
     <script>
          function initialize() {
 
@@ -27,14 +28,14 @@
                       "Lat": 24.179,
                   },
                    {
-                       "Country": "Djibuti, Mali",
+                       "Country": "Mali",
                        "Percent": "10%",
                        "Affected": "20k",
                        "Lon": -21.068692,
                        "Lat": 13.363,
                    },
                     {
-                        "Country": "Moz, Mali",
+                        "Country": "Mali",
                         "Percent": "5%",
                         "Affected": "23k",
                         "Lon": -11.068692,
@@ -90,6 +91,38 @@
     <link rel="stylesheet" href="css/main.css">
 
     <meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {
+            'packages':['geochart'],
+            // Note: you will need to get a mapsApiKey for your project.
+            // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+            'mapsApiKey': 'AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY'
+        });
+        google.charts.setOnLoadCallback(drawRegionsMap);
+
+
+        function drawRegionsMap() {
+            datatable = [];
+            datatable.push(['Area', 'Risk Percentage'])
+            window.alertData.forEach(function(alert){
+                datatable.push([alert.Country, parseInt(alert.Percent.split('%')[0])])
+            });
+            console.log(datatable);
+
+            var data = google.visualization.arrayToDataTable(datatable);
+
+            var options = {
+                region: '002', // Africa
+                resolution: 'cities',
+                colorAxis: {colors: ['#ff9999', '#ff0000']} // orange to blue
+            };
+
+            var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+
+            chart.draw(data, options);
+        }
+    </script>
 </head>
 <body onload="initialize()">
 
@@ -110,42 +143,10 @@
     <div class="panel-heading">
         <div class="panel-body">
             <div class="tab-content">
-                <div class="tab-pane fade in active alertNav" id="tab1"></div>                 <div class="tab-pane fade" id="tab2">
-                     <div id="map"></div>
-                     <script>
-                        
-                        function initMap() {
-                            var map = new google.maps.Map(document.getElementById('map'), {
-                                zoom: 3,
-                                center: {lat: 8.7, lng: 19.2}
-                            });
+                <div class="tab-pane fade in active alertNav" id="tab1"></div> 
+                <div class="tab-pane fade" id="tab2">
+                <div id="regions_div" style="width: 1300px; height: 1000px;"></div>
 
-                            // Create an array of alphabetical characters used to label the markers.
-                            var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-
-                            // Add some markers to the map.
-                            // Note: The code uses the JavaScript Array.prototype.map() method to
-                            // create an array of markers based on a given "locations" array.
-                            // The map() method here has nothing to do with the Google Maps API.
-                            var markers = window.alertData.map(function(alert, i) {
-                                var location = {lat: alert.Lat, lon: alert.Lon};
-                                return new google.maps.Marker({
-                                position: location,
-                                label: alert.Country
-                                });
-                        });
-
-                        // Add a marker clusterer to manage the markers.
-                        var markerCluster = new MarkerClusterer(map, markers,
-                            {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
-                        }
-                                  
-                        </script>
-                        <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
-                        </script>
-                        <script async defer
-                                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA6HhPsViByj_rBLwrPCVhfVqBkEiLb2No&callback=initMap">
-                        </script>
                     <div class="tab-pane fade" id="tab3"></div>
                 </div>
             </div>
