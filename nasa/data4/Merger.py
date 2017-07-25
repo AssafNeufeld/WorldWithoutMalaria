@@ -3,6 +3,7 @@ from os.path import isfile, join
 import sys
 import re
 
+#sys.argv=["Merger.py", "c:\\malaria" ,"19980101", "19980104"]
 path = sys.argv[1]
 startDate = sys.argv[2]
 endDate = sys.argv[3]
@@ -32,10 +33,10 @@ for f in onlyfiles:
 
 for year, dic in groups.items():
     print("Merging year " + year)
-    includeHeader = True
+    firstLineInYear = True
     with open(year + '.txt', 'w') as outFile:
-        firstLine=True
         for day, data in dic.items():
+            firstLineInDay = True
             sdate = [year + "-" + day[:2] + "-" + day[2:]]
             if data.get("tavg1") is None or data.get("statD") is None:
                 continue
@@ -46,11 +47,11 @@ for year, dic in groups.items():
                         tRow = line.strip('\n').split(',')
                         out = sdate + [str(e) for e in sRow + tRow[2:]]
                         s=','.join(out)+'\n'
-                        if firstLine:
-                            if includeHeader:
+                        if firstLineInDay:
+                            if firstLineInYear:
                                 outFile.write(s)
-                                includeHeader=False
-                                firstLine=False
-                                continue
-                        elif "Latitude" not in s:
-                            outFile.write(s)
+                                firstLineInYear=False
+
+                            firstLineInDay = False
+                            continue
+                        outFile.write(s)
