@@ -37,6 +37,8 @@ for year, dic in groups.items():
         firstLine=True
         for day, data in dic.items():
             sdate = [year + "-" + day[:2] + "-" + day[2:]]
+            if data.get("tavg1") is None or data.get("statD") is None:
+                continue
             with open(join(path, data["tavg1"]),'r') as tavg1:
                 with open(join(path, data["statD"]), 'r') as statD:
                     for line in tavg1:
