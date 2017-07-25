@@ -4,15 +4,48 @@
     <title>Hello World</title>
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/handlebars-v4.0.10.js"></script>
+
+    <script src="http://www.webglearth.com/v2/api.js"></script>
+    <script>
+      function initialize() {
+          var options = {
+              sky: true,
+              atmosphere: true,
+              dragging: true,
+              tilting: true,
+              zooming: true,
+              center: [31.771959, 35.217018],
+              zoom: 8
+          };
+          var earth = new WE.map('earth_div', options);
+
+        WE.tileLayer('http://data.webglearth.com/tileserver/world-dark/{z}/{x}/{y}.jpg', {
+            tileSize: 256,
+            bounds: [[-85, -180], [85, 180]],
+            minZoom: 0,
+            maxZoom: 16,
+            attribution: 'WebGLEarth example',
+            tms: true
+        }).addTo(earth);
+
+        WE.tileLayer('http://data.webglearth.com/tileserver/control-room/{z}/{x}/{y}.png', {
+          minZoom: 0,
+          maxZoom: 16,
+          attribution: 'NASA'
+        }).addTo(earth);
+      }
+    </script>
+
     <script src="js/main.js"></script>
 
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/main.css">
 
-	<meta charset="utf-8" />
+    <meta charset="utf-8" />
 </head>
-<body>
+<body onload="initialize()">
 
 
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -21,19 +54,18 @@
                 <a class="navbar-brand" href="#">World Without Malaria</a>
             </div>
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#tab1danger" data-toggle="tab">Areas At-Risk</a></li>
-                <li><a href="#tab2danger" data-toggle="tab">Map</a></li>
-                <li><a href="#tab3danger" data-toggle="tab">Links</a></li>
+                <li class="active"><a href="#tab1" data-toggle="tab">Areas At-Risk</a></li>
+                <li><a href="#tab2" data-toggle="tab">Map</a></li>
+                <li><a href="#tab3" data-toggle="tab">Links</a></li>
             </ul>
         </div>
     </nav>
-    
+
     <div class="">
         <div class="panel-heading">
             <div class="panel-body">
                 <div class="tab-content">
-                    <div class="tab-pane fade in active" id="tab1danger">
-
+                    <div class="tab-pane fade in active" id="tab1">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h3 class="panel-title">Osire, Namibia</h3>
@@ -66,10 +98,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="tab2danger"></div>
-                    <div class="tab-pane fade" id="tab3danger"></div>
+                    <div class="tab-pane fade" id="tab2">
+                        <div id="earth_div"></div>
+                    </div>
+                    <div class="tab-pane fade" id="tab3"></div>
                 </div>
-
             </div>
         </div>
     </div>
