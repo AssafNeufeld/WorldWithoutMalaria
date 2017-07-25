@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="js\handlebars-v4.0.10.js" />
+    <Content Include="js\webglapi.js" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
