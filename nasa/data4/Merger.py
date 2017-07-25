@@ -49,6 +49,7 @@ for year, dic in groups.items():
                                 outFile.write(s)
                                 includeHeader=False
                                 firstLine=False
+                                continue
                         else:
                             outFile.write(s)
 
