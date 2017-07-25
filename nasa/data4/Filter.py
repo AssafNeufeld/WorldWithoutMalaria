@@ -529,14 +529,19 @@ geos = {"-8.5_14.375",
 }
 
 import sys
-path = sys.argv[1]
-outputPath = sys.argv[2]
+#path = sys.argv[1]
+#outputPath = sys.argv[2]
+path = "2001.txt"
+outputPath = "2001.f.txt"
+
+
 with open(path,'r') as inputFile:
     with open(outputPath, 'w') as outputFile:
         first = True
         for l in inputFile:
             if first:
                 outputFile.write(l)
+                first=False
                 continue
             arr = l.split(',')
             key = arr[1]+"_"+arr[2]
