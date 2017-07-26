@@ -66,6 +66,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\Medicine.png" />
+    <Content Include="images\Netting.png" />
+    <Content Include="images\Spraying.png" />
     <Content Include="images\team.png" />
     <Content Include="js\handlebars-v4.0.10.js" />
     <Content Include="packages.config" />
