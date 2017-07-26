@@ -9,7 +9,6 @@ body {
     padding: 70px; 
     font-family: 'Segoe UI' !important
 }
-   
 
 .parent {
     display: flex;
@@ -118,4 +117,10 @@ background-color: #5ca09c;
 
 .org-image {
     margin: 10px;
+}
+
+.team-img {
+     display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
