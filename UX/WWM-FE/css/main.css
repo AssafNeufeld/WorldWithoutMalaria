@@ -43,6 +43,7 @@ body {
   width: 24%;
   margin-top: 10px;
   border-radius: 10px;
+  flex-grow: 1;
   
   color: black;
   font-size: 1em;
@@ -53,10 +54,6 @@ body {
     font-weight: bold;
     font-size: 2em;
     color: red;
-}
-
-.alert-content {
-    font-weight: bold;
 }
 
 #tab2 {
@@ -113,4 +110,12 @@ background-color: #5ca09c;
 
 .org {
     background-color: #5ca09c;
+}
+
+.alert-flex {
+    width: 400px;
+}
+
+.org-image {
+    margin: 10px;
 }
