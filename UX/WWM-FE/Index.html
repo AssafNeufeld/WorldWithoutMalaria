@@ -42,13 +42,11 @@
                         "Lat": 27.363,
                     }
             ];
-
             var theTemplateScript = $("#alert-template").html();
             var theTemplate = Handlebars.compile(theTemplateScript);
             $(".alertNav").append(theTemplate(window.alertData));
         }
     </script>
-
     <script id="alert-template" type="x-handlebars-template">
         {{#each this}}
         <div class="panel panel-default">
@@ -83,9 +81,8 @@
             </div>
         </div>
         {{/each}}
-
     </script>
-    
+
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/main.css">
@@ -125,8 +122,6 @@
     </script>
 </head>
 <body onload="initialize()">
-
-
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -134,24 +129,35 @@
             </div>
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#tab1" data-toggle="tab">Areas At-Risk</a></li>
-                <li><a href="#tab2" data-toggle="tab">Map</a></li>
-                <li><a href="#tab3" data-toggle="tab">Links</a></li>
+                <li><a href="#tab2" data-toggle="tab">Live Risk Map</a></li>
+                <li><a href="#tab3" data-toggle="tab">Available Resources</a></li>
+                <li><a href="#tab4" data-toggle="tab">About</a></li>
             </ul>
         </div>
     </nav>
 
-    <div class="panel-heading">
-        <div class="panel-body">
-            <div class="tab-content">
-                <div class="tab-pane fade in active alertNav" id="tab1"></div> 
-                <div class="tab-pane fade" id="tab2">
-                <div id="regions_div" style="width: 1300px; height: 1000px;"></div>
+    
+    <div class="tab-content">
 
-                    <div class="tab-pane fade" id="tab3"></div>
-                </div>
+        <div class="tab-pane fade in active" id="tab1">
+            <div class="jumbotron jumbo">
+                <h1>World Without Malaria</h1>
+                <p>World Without Malaria is a project from Microsoft that aims to save lives in Malaria stricken areas.<br /> We use NASA data collected by the MERRA-2 project, and coorelate it using Machine-Learning to predict upcoming Malaria outbreaks. Early prediction and treatment is a key factor in eliminating Malaria world-wide.</p>
+            </div>
+            <div class="risk-feed">
+                <h2 class="risk-feed-title">Real-Time Global Risk Assesment:</h2>
+                <div class="alertNav"></div>
             </div>
         </div>
+
+        <div class="tab-pane fade" id="tab2">
+            <div id="regions_div" style="width: 1300px; height: 1000px;"></div>
+        </div>
+
+        <div class="tab-pane fade" id="tab3"></div>
+
     </div>
+      
 
 
 </body>

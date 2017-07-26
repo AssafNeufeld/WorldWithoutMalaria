@@ -1,4 +1,15 @@
-﻿
+﻿/* Optional: Makes the sample page fill the window. */
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    padding: 70px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+   
 
 .parent {
     display: flex;
@@ -59,14 +70,18 @@
     width: 100%;
 }
 
-/* Optional: Makes the sample page fill the window. */
-html{
-    height: 100%;
-    margin: 0;
-    padding: 0;
+.jumbo {
+    padding:20px;
+    border-radius:7px;
 }
 
-body { 
-    padding-top: 70px; 
+.risk-feed {
+    padding: 10px;
+    background-color: darkred;
+    border-radius: 7px;
 }
-   
+
+.risk-feed-title{
+    color: white;
+    margin-bottom:20px;
+}
