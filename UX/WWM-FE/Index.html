@@ -100,14 +100,14 @@
                       "Lat": 24.179,
                   },
                    {
-                       "Country": "Mali",
+                       "Country": "Segou, Mali",
                        "Percent": "10%",
                        "Affected": "20k",
                        "Lon": -21.068692,
                        "Lat": 13.363,
                    },
                     {
-                        "Country": "Mali",
+                        "Country": "Markala, Mali",
                         "Percent": "5%",
                         "Affected": "23k",
                         "Lon": -11.068692,
@@ -186,7 +186,7 @@
 
         function drawRegionsMap() {
             datatable = [];
-            datatable.push(['Area', 'Risk Percentage'])
+            datatable.push(['Area', 'Calculated model risk:'])
             window.alertData.forEach(function(alert){
                 datatable.push([alert.Country, parseInt(alert.Percent.split('%')[0])])
             });
@@ -229,7 +229,9 @@
         <div class="tab-pane fade in active" id="tab1">
             <div class="jumbotron jumbo">
                 <h1>World Without Malaria</h1>
-                <p>World Without Malaria is a project from Microsoft that aims to save lives in Malaria stricken areas.<br /> We use NASA data collected by the MERRA-2 project, and correlate it using Machine-Learning to predict upcoming Malaria outbreaks. Early prediction and treatment is a key factor in eliminating Malaria world-wide. </p>
+                <p>World Without Malaria is a project from Microsoft that aims to save lives in Malaria stricken areas.</p> 
+                <p>We use real-time and historic climate data collected by the NASA MERRA-2 project, and analyze it using Machine-Learning to predict upcoming Malaria outbreaks. Early prediction and treatment is a critical factor in eliminating Malaria world-wide. </p>
+                <p>We've analyzed over 5 Terra of data and counting, and produce a real-time, daily updating Malaria threat assesment.</p>
             </div>
             <div class="risk-feed">
                 <h2 class="risk-feed-title">Real-Time Global Risk Assesment</h2>
@@ -238,7 +240,7 @@
         </div>
 
         <div class="tab-pane fade" id="tab2">
-            <div id="regions_div" style="width: 1300px; height: 1000px;"></div>
+            <div id="regions_div"></div>
         </div>
 
         <div class="tab-pane fade" id="tab3">
