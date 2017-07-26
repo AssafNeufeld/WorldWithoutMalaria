@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\team.png" />
     <Content Include="js\handlebars-v4.0.10.js" />
     <Content Include="js\webglapi.js" />
     <Content Include="packages.config" />

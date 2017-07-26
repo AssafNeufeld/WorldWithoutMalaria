@@ -70,6 +70,10 @@ body {
     width: 100%;
 }
 
+#regions_div {
+    background-color: lightgray;
+}
+
 .jumbo {
     padding:20px;
     border-radius:7px;
