@@ -91,9 +91,10 @@ body {
     margin-bottom:20px;
 }
 
-.panel-header {
-    background-color:#E0EDEC 
-
+.panel-default > .panel-heading {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
 }
 
 .navbar-custom {
@@ -106,14 +107,10 @@ body {
 background-color: #5ca09c;
 }
 
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    background-color: #5ca09c;
+.list-group-item {
+    overflow: hidden;
 }
-	.nav>li>a:focus, .nav>li>a:hover {
-    background-color: #5ca09c;
-}
-	
 
-    .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-        background-color: #5ca09c;
-    }
+.org {
+    background-color: #5ca09c;
+}

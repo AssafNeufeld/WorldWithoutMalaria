@@ -68,12 +68,12 @@
   <ItemGroup>
     <Content Include="images\team.png" />
     <Content Include="js\handlebars-v4.0.10.js" />
-    <Content Include="js\webglapi.js" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Properties\PublishProfiles\WorldWithoutMalaria - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
