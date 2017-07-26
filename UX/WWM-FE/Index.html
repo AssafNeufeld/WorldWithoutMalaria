@@ -11,7 +11,79 @@
 
     <script>
          function initialize() {
+             window.orgData = [
+            {
+            name: "Africa Fighting Malaria",
+            method: "Pest control",
+            activeCountries: "5",
+            link: "http://www.fightingmalaria.org/"
+            },
+            {
+            name: "AIDSfreeAFRICA",
+            method: "Window and door screens made from recycled nets",
+            activeCountries: "1",
+            link: "http://aidsfreeafrica.org/our-programs/malaria-free-zone/"
+            },
+            {
+            name: "Amref Health Africa",
+            method: "Education; Builds health systems to treat patients ",
+            activeCountries: "22",
+            link: "http://www.amrefusa.org/"
+            },
+            {
+            name: "Clinton Health Access Initiative",
+            method: "Testing and medications",
+            activeCountries: "22",
+            link: "http://www.clintonhealthaccess.org/"
+            },
+            
+                        {
+                            name: "CURE International",
+                            method: "Opens and operates  pediatric charitable hospitals",
+                            activeCountries: "10",
+                            link: "https://cure.org/"
+                        },
+                          
+                          {
+                              name: "Global Health Council",
+                              method: "Policy and Advocacy: Advocates US govt for increased visibility, leadership and investment in global health policy and budget priorities.",
+                              activeCountries: "--",
+                              link: "http://globalhealth.org/"
+                          },
+                          {
+                              name: "Global Partners for Development",
+                              method: "Medications",
+                              activeCountries: "3",
+                              link: "https://gpfd.org/"
+                          },
+                          {
+                              name: "Medair",
+                              method: "Emergency as well as year-round health clinics; medications, ",
+                              activeCountries: "10",
+                              link: "http://relief.medair.org/en/healing-communities/"
+                          },
+                          {
+                              name: "Roll Back Malaria",
+                              method: "Multisectoral Action Framework ",
+                              activeCountries: "10",
+                              link: "http://www.rollbackmalaria.org/"
+                          },
 
+                           {
+                               name: "World Vision",
+                               method: "Bed nets, indoor insecticide spraying",
+                               activeCountries: "14",
+                               link: "http://www.amrefusa.org/"
+                           },
+                            {
+                                name: "Against Malaria Foundation",
+                                method: "Bed nets",
+                                activeCountries: "12",
+                                link: "https://www.againstmalaria.com/"
+                            },
+                            
+
+             ];
             window.alertData = [
                   {
                       "Country": "Osire, Namibia",
@@ -42,11 +114,38 @@
                         "Lat": 27.363,
                     }
             ];
-            var theTemplateScript = $("#alert-template").html();
-            var theTemplate = Handlebars.compile(theTemplateScript);
-            $(".alertNav").append(theTemplate(window.alertData));
+            var alertTemplateScript = $("#alert-template").html();
+            var alertTemplate = Handlebars.compile(alertTemplateScript);
+            $(".alertNav").append(alertTemplate(window.alertData));
+
+            var orgTemplateScript = $("#org-template").html();
+            var orgTemplate = Handlebars.compile(orgTemplateScript);
+            $(".orgNav").append(orgTemplate(window.orgData));
+
         }
     </script>
+
+    <script id="org-template" type="x-handlebars-template">
+        <ul class="flex-container">
+            {{#each this}}
+            <li class="flex-item">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        {{name}}
+                    </div>
+                    <div class="panel-body">
+                        <ul class="list-group">
+                            <li class="list-group-item">{{method}}</li>
+                            <li class="list-group-item">{{activeCountries}} Active countries</li>
+                            <li class="list-group-item"><a>{{link}}</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            {{/each}}
+        </ul>
+    </script>
+
     <script id="alert-template" type="x-handlebars-template">
         {{#each this}}
         <div class="panel panel-default">
@@ -64,9 +163,6 @@
                             <span class="glyphicon glyphicon-user" aria-hidden="true"></span> {{Affected}}
                         </div>
                         <div class="alert-content">People immediately at-risk</div>
-                    </li>
-                    <li class="flex-item">
-                        
                     </li>
                 </ul>
             </div>
@@ -147,7 +243,9 @@
             <div id="regions_div" style="width: 1300px; height: 1000px;"></div>
         </div>
 
-        <div class="tab-pane fade" id="tab3"></div>
+        <div class="tab-pane fade" id="tab3">
+            <div class="orgNav"></div>
+        </div>
 
         <div class="tab-pane fade" id="tab4">
             <div class="row">
